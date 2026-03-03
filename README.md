@@ -1,19 +1,25 @@
-[cite_start]<h1 align="center">Hi 👋, I'm Ziad Hatem [cite: 1]</h1>
-[cite_start]<h3 align="center">A passionate Frontend Engineer (React/Next.js) [cite: 2] [cite_start]from Cairo, Egypt, specializing in Performance, SEO, Accessibility, and Analytics[cite: 3].</h3>
-[cite_start]<p align="center">Experienced in shipping production e-commerce and education platforms with the Next.js App Router[cite: 6].</p>
+<h1 align="center">Hi 👋, I'm Ziad Hatem</h1>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziad-hatem" alt="ziad-hatem" /></a> </p>
+<h3 align="center">A passionate Frontend Engineer (React/Next.js) from Cairo, Egypt, specializing in Performance, SEO, Accessibility, and Analytics.</h3>
+
+<p align="center">Experienced in shipping production e-commerce and education platforms with the Next.js App Router.</p>
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ziad-hatem" alt="ziad-hatem" />
+  </a> 
+</p>
 
 ---
 
 ### 🚀 About Me
 
-- [cite_start]🔭 I’m currently working as a Frontend Developer [cite: 13] [cite_start]at [Brackets Technology](https://brackets-tech.com/)[cite: 14].
-- [cite_start]🌱 I’m currently focused on **improving Core Web Vitals, SEO, and Accessibility**[cite: 7].
-- [cite_start]👨‍💻 All of my case studies and projects are available at [ziadhatem.dev](https://ziadhatem.dev)[cite: 4].
-- [cite_start]💬 Ask me about **Next.js (App Router), TypeScript, Tailwind, Playwright, and GA4**[cite: 15].
-- [cite_start]📫 How to reach me: **contact@ziadhatem.dev**[cite: 4].
-- 📄 Know about my experiences on my [LinkedIn](https://linkedin.com/in/ziadhatem2026).
+- 🔭 I’m currently working as a Frontend Developer at [Brackets Technology](https://brackets-tech.com/)
+- 🌱 I’m currently focused on **improving Core Web Vitals, SEO, and Accessibility**
+- 👨‍💻 All of my case studies and projects are available at [ziadhatem.dev](https://ziadhatem.dev)
+- 💬 Ask me about **Next.js (App Router), TypeScript, Tailwind, Playwright, and GA4**
+- 📫 How to reach me: **contact@ziadhatem.dev**
+- 📄 Know about my experiences on my [LinkedIn](https://linkedin.com/in/ziadhatem2026)
 - ⚡ Fun fact: **I love Memes!**
 
 ---
